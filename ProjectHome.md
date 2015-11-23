@@ -1,0 +1,1 @@
+Sistema gerenciados de contas à pagar, a receber e controle de contas bancárias.
